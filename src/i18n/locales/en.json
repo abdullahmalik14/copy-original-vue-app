@@ -1,0 +1,137 @@
+{
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "button": "Sign In",
+      "emailPlaceholder": "Enter your email",
+      "passwordPlaceholder": "Enter your password",
+      "welcome": "Hello, {0}!",
+      "error": "Invalid credentials"
+    },
+    "register": {
+      "title": "Create Account",
+      "button": "Sign Up",
+      "firstName": "First Name",
+      "emailPlaceholder": "Enter your email",
+      "passwordPlaceholder": "Enter your password",
+      "success": "Account created successfully",
+      "Onboarding": {
+        "title": "Complete Your Profile",
+        "description": "Please complete your profile information",
+        "button": "Complete"
+      },
+      "KYC": {
+        "title": "Identity Verification",
+        "description": "Please complete the identity verification process to continue",
+        "button": "Complete KYC",
+        "error": "An error occurred while completing KYC",
+        "status": {
+          "title": "KYC Status",
+          "description": "Your identity verification status",
+          "done": "DONE",
+          "pending": "PENDING"
+        }
+      }
+    },
+    "common": {
+      "logout": "Sign Out",
+      "loading": "Loading...",
+      "user": "User",
+      "admin": "Admin",
+      "guest": "Guest"
+    },
+    "messages": {
+      "Onboarding": {
+        "error": "An error occurred while completing your profile"
+      }
+    }
+  },
+  "dashboard": {
+    "page": {
+      "title": "Dashboard",
+      "description": "Overview of your account"
+    },
+    "actions": {
+      "editProfile": "Edit Profile",
+      "editSettings": "Edit Settings",
+      "myMedia": "My Media",
+      "viewStats": "View Statistics"
+    },
+    "sections": {
+      "editProfile": {
+        "title": "Edit Profile",
+        "description": "Update your personal information"
+      },
+      "editSettings": {
+        "title": "Account Settings",
+        "description": "Manage your account preferences"
+      },
+      "myMedia": {
+        "title": "My Media",
+        "description": "Manage your uploaded content"
+      }
+    },
+    "messages": {
+      "welcome": "Welcome back, {0}!",
+      "stats": "You have {0} items"
+    }
+  },
+  "profile": {
+    "page": {
+      "title": "Profile",
+      "description": "Manage your profile information"
+    },
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "bio": "Biography",
+      "save": "Save Changes"
+    },
+    "messages": {
+      "updated": "Profile updated successfully",
+      "error": "Failed to update profile"
+    }
+  },
+  "discover": {
+    "page": {
+      "title": "Discover",
+      "description": "Explore new content and features"
+    },
+    "sections": {
+      "featured": "Featured Content"
+    },
+    "messages": {
+      "explore": "Start exploring our platform"
+    }
+  },
+  "shop": {
+    "page": {
+      "title": "Shop",
+      "description": "Browse and purchase products"
+    },
+    "sections": {
+      "products": "Products"
+    },
+    "messages": {
+      "comingSoon": "More products coming soon!"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Operation completed",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "submit": "Submit",
+    "reset": "Reset",
+    "back": "Go Back",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}

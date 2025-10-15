@@ -1,0 +1,137 @@
+{
+  "auth": {
+    "login": {
+      "title": "Chào mừng trở lại",
+      "button": "Đăng nhập",
+      "emailPlaceholder": "Nhập email của bạn",
+      "passwordPlaceholder": "Nhập mật khẩu của bạn",
+      "welcome": "Xin chào, {0}!",
+      "error": "Thông tin đăng nhập không hợp lệ"
+    },
+    "register": {
+      "title": "Tạo tài khoản",
+      "button": "Đăng ký",
+      "firstName": "Tên",
+      "emailPlaceholder": "Nhập email của bạn",
+      "passwordPlaceholder": "Nhập mật khẩu của bạn",
+      "success": "Tạo tài khoản thành công",
+      "Onboarding": {
+        "title": "Hoàn thiện hồ sơ",
+        "description": "Vui lòng hoàn thiện thông tin hồ sơ của bạn",
+        "button": "Hoàn thành"
+      },
+      "KYC": {
+        "title": "Xác minh danh tính",
+        "description": "Vui lòng hoàn thành quy trình xác minh danh tính để tiếp tục",
+        "button": "Hoàn thành KYC",
+        "error": "Có lỗi xảy ra khi hoàn thành KYC",
+        "status": {
+          "title": "Trạng thái KYC",
+          "description": "Trạng thái xác minh danh tính của bạn",
+          "done": "HOÀN THÀNH",
+          "pending": "CHỜ XỬ LÝ"
+        }
+      }
+    },
+    "common": {
+      "logout": "Đăng xuất",
+      "loading": "Đang tải...",
+      "user": "Người dùng",
+      "admin": "Quản trị viên",
+      "guest": "Khách"
+    },
+    "messages": {
+      "Onboarding": {
+        "error": "Có lỗi xảy ra khi hoàn thiện hồ sơ"
+      }
+    }
+  },
+  "dashboard": {
+    "page": {
+      "title": "Bảng điều khiển",
+      "description": "Tổng quan tài khoản của bạn"
+    },
+    "actions": {
+      "editProfile": "Sửa hồ sơ",
+      "editSettings": "Sửa cài đặt",
+      "myMedia": "Media của tôi",
+      "viewStats": "Xem thống kê"
+    },
+    "sections": {
+      "editProfile": {
+        "title": "Sửa hồ sơ",
+        "description": "Cập nhật thông tin cá nhân"
+      },
+      "editSettings": {
+        "title": "Cài đặt tài khoản",
+        "description": "Quản lý tùy chọn tài khoản"
+      },
+      "myMedia": {
+        "title": "Media của tôi",
+        "description": "Quản lý nội dung đã tải lên"
+      }
+    },
+    "messages": {
+      "welcome": "Chào mừng trở lại, {0}!",
+      "stats": "Bạn có {0} mục"
+    }
+  },
+  "profile": {
+    "page": {
+      "title": "Hồ sơ",
+      "description": "Quản lý thông tin hồ sơ"
+    },
+    "form": {
+      "firstName": "Tên",
+      "lastName": "Họ",
+      "email": "Địa chỉ email",
+      "phone": "Số điện thoại",
+      "bio": "Tiểu sử",
+      "save": "Lưu thay đổi"
+    },
+    "messages": {
+      "updated": "Cập nhật hồ sơ thành công",
+      "error": "Không thể cập nhật hồ sơ"
+    }
+  },
+  "discover": {
+    "page": {
+      "title": "Khám phá",
+      "description": "Khám phá nội dung và tính năng mới"
+    },
+    "sections": {
+      "featured": "Nội dung nổi bật"
+    },
+    "messages": {
+      "explore": "Bắt đầu khám phá nền tảng của chúng tôi"
+    }
+  },
+  "shop": {
+    "page": {
+      "title": "Cửa hàng",
+      "description": "Duyệt và mua sản phẩm"
+    },
+    "sections": {
+      "products": "Sản phẩm"
+    },
+    "messages": {
+      "comingSoon": "Sẽ có thêm sản phẩm sớm!"
+    }
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "success": "Thao tác hoàn thành",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Sửa",
+    "create": "Tạo",
+    "update": "Cập nhật",
+    "submit": "Gửi",
+    "reset": "Đặt lại",
+    "back": "Quay lại",
+    "next": "Tiếp theo",
+    "previous": "Trước đó"
+  }
+}

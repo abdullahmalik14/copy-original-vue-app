@@ -1,0 +1,4 @@
+[
+  { "name": "logo", "type": "icon", "path": "/images/test-image.jpg" },
+  { "name": "test-style", "type": "link", "path": "/css/test-style.css" }
+]

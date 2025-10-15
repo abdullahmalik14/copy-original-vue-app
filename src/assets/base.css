@@ -1,0 +1,5 @@
+/* Minimal baseline styles */
+html, body, #app { height: 100%; margin: 0; }
+* { box-sizing: border-box; }
+.border-b { border-bottom: 1px solid #e5e7eb; }
+.p-4 { padding: 1rem; }

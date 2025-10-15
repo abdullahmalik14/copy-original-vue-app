@@ -1,0 +1,291 @@
+{
+  "auth": {
+    "page": {
+      "title": "Authentication",
+      "description": "Secure access to your account"
+    },
+    "login": {
+      "title": "Login to Your Account",
+      "button": "Login",
+      "description": "Sign in to your account"
+    },
+    "register": {
+      "title": "Create Account",
+      "button": "Register",
+      "description": "Create a new account",
+      "Onboarding": {
+        "title": "Onboarding",
+        "description": "Complete your onboarding here (placeholder form).",
+        "button": "Complete Onboarding",
+        "error": "Failed to complete onboarding"
+      },
+      "KYC": {
+        "title": "KYC",
+        "description": "Complete your KYC here (placeholder form).",
+        "button": "Complete KYC",
+        "error": "Failed to complete KYC"
+      }
+    },
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "emailPlaceholder": "Enter your email",
+      "passwordPlaceholder": "Enter your password"
+    },
+    "links": {
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "forgotPassword": "Forgot your password?",
+      "resetPassword": "Reset it here"
+    },
+    "messages": {
+      "loginSuccess": "Login successful",
+      "loginError": "Invalid email or password",
+      "registerSuccess": "Account created successfully",
+      "registerError": "Failed to create account",
+      "Onboarding": {
+        "error": "Failed to complete onboarding"
+      }
+    },
+    "common": {
+      "user": "User",
+      "admin": "Admin",
+      "guest": "Guest"
+    }
+  },
+  "dashboard": {
+    "page": {
+      "title": "Dashboard",
+      "description": "Overview of your account and activities"
+    },
+    "stats": {
+      "totalOrders": "Total Orders",
+      "totalRevenue": "Total Revenue",
+      "activeCustomers": "Active Customers",
+      "pendingTasks": "Pending Tasks"
+    },
+    "sections": {
+      "recentOrders": "Recent Orders",
+      "quickActions": "Quick Actions",
+      "analytics": "Analytics",
+      "notifications": "Notifications",
+      "contact": "Contact Information",
+      "about": "About",
+      "services": "Services",
+      "settings": "Settings"
+    },
+    "actions": {
+      "viewAll": "View All",
+      "createNew": "Create New",
+      "refresh": "Refresh",
+      "settings": "Settings",
+      "export": "Export Data",
+      "import": "Import Data",
+      "save": "Save"
+    },
+    "form": {
+      "transferAmount": "Transfer Amount",
+      "enterAmount": "Enter transfer amount",
+      "amountExceeded": "Amount exceeds daily limit",
+      "selectTransferType": "Select Transfer Type",
+      "enterSwiftCode": "Enter SWIFT/BIC code",
+      "swiftCode": "SWIFT/BIC Code",
+      "enterNotes": "Enter any additional notes for this transfer",
+      "submit": "Submit",
+      "reset": "Reset"
+    },
+    "messages": {
+      "welcome": "Welcome back!",
+      "noData": "No data available",
+      "loading": "Loading dashboard...",
+      "error": "Failed to load dashboard data",
+      "success": "Dashboard updated successfully"
+    }
+  },
+  "shop": {
+    "page": {
+      "title": "Shop",
+      "description": "Browse and purchase products"
+    },
+    "sections": {
+      "products": "Products",
+      "cart": "Shopping Cart",
+      "checkout": "Checkout"
+    },
+    "messages": {
+      "comingSoon": "More products coming soon!",
+      "emptyCart": "Your cart is empty",
+      "addedToCart": "Product added to cart"
+    }
+  },
+  "discover": {
+    "page": {
+      "title": "Discover",
+      "description": "Explore new content and features"
+    },
+    "sections": {
+      "featured": "Featured Content",
+      "trending": "Trending Now",
+      "recommendations": "Recommendations"
+    },
+    "messages": {
+      "explore": "Start exploring our platform",
+      "noContent": "No content available",
+      "loading": "Loading discoveries..."
+    }
+  },
+  "default": {
+    "page": {
+      "title": "Default Page",
+      "description": "Welcome to the default page"
+    },
+    "form": {
+      "title": "Contact Form",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "phone": "Phone Number",
+      "password": "Password",
+      "search": "Search",
+      "namePlaceholder": "Enter your name",
+      "emailPlaceholder": "Enter your email",
+      "messagePlaceholder": "Enter your message",
+      "phonePlaceholder": "Enter your phone number",
+      "passwordPlaceholder": "Enter password",
+      "searchPlaceholder": "Search...",
+      "emailDescription": "We'll use this email to send you important updates",
+      "phoneDescription": "Please include your country code",
+      "submit": "Submit",
+      "reset": "Reset"
+    },
+    "sections": {
+      "contact": "Contact Information",
+      "about": "About Us",
+      "services": "Our Services",
+      "testimonials": "Testimonials"
+    },
+    "messages": {
+      "formSubmitted": "Form submitted successfully",
+      "formError": "Error submitting form",
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "emailValid": "Email format is valid"
+    },
+    "display": {
+      "currentValues": "Current Values"
+    },
+    "common": {
+      "loading": "Loading...",
+      "error": "An error occurred",
+      "success": "Success",
+      "cancel": "Cancel",
+      "save": "Save",
+      "required": "Required"
+    }
+  },
+  "home": {
+    "page": {
+      "title": "My Orders",
+      "description": "Manage and track your orders"
+    },
+    "actions": {
+      "update": "Update",
+      "cancel": "Cancel",
+      "refresh": "Refresh",
+      "export": "Export"
+    },
+    "table": {
+      "headers": {
+        "orderId": "Order ID",
+        "customer": "Customer",
+        "date": "Date",
+        "amount": "Amount",
+        "status": "Status"
+      },
+      "status": {
+        "pending": "Pending",
+        "processing": "Processing",
+        "completed": "Completed",
+        "cancelled": "Cancelled"
+      },
+      "empty": "No orders found",
+      "loading": "Loading orders..."
+    },
+    "navigation": {
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "orders": "Orders",
+      "products": "Products",
+      "customers": "Customers",
+      "analytics": "Analytics"
+    },
+    "common": {
+      "welcome": "Welcome to your dashboard",
+      "loading": "Loading...",
+      "error": "An error occurred",
+      "success": "Operation completed successfully"
+    },
+    "sections": {
+      "orders": "Orders Overview",
+      "ordersDescription": "View and manage orders from different user roles in the system"
+    }
+  },
+  "orders": {
+    "page": {
+      "title": "Orders Management",
+      "description": "Manage and track all orders across different user roles."
+    },
+    "sections": {
+      "overview": "Orders Overview",
+      "filters": "Filters",
+      "actions": "Actions"
+    },
+    "actions": {
+      "create": "Create Order",
+      "edit": "Edit Order",
+      "delete": "Delete Order",
+      "export": "Export Orders"
+    },
+    "status": {
+      "pending": "Pending",
+      "processing": "Processing",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "messages": {
+      "loading": "Loading orders...",
+      "empty": "No orders found",
+      "error": "Failed to load orders"
+    }
+  },
+  "login": {
+    "loginTitle": "Login to Your Account",
+    "loginButton": "Login",
+    "email": "Email",
+    "password": "Password",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "forgotPassword": "Forgot your password?",
+    "resetPassword": "Reset it here",
+    "signInDescription": "Sign in to your account",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Password",
+    "emailDescription": "We'll never share your email with anyone else",
+    "passwordDescription": "Your password must meet security requirements",
+    "rememberMe": "Remember me",
+    "formDataTitle": "Form Data",
+    "notEntered": "Not entered",
+    "common": {
+      "required": "Required"
+    },
+    "navigation": {
+      "title": "i18n Test App",
+      "home": "Home"
+    }
+  }
+}

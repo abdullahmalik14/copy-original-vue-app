@@ -1,0 +1,290 @@
+{
+  "auth": {
+    "page": {
+      "title": "Xác thực",
+      "description": "Truy cập an toàn vào tài khoản của bạn"
+    },
+    "login": {
+      "title": "Đăng nhập vào tài khoản của bạn",
+      "button": "Đăng nhập",
+      "description": "Đăng nhập vào tài khoản của bạn"
+    },
+    "register": {
+      "title": "Tạo tài khoản",
+      "button": "Đăng ký",
+      "description": "Tạo tài khoản mới",
+      "Onboarding": {
+        "title": "Bắt đầu đăng ký",
+        "description": "Hoàn thành đăng ký ở đây (form mẫu).",
+        "button": "Hoàn thành đăng ký",
+        "error": "Không thể hoàn thành đăng ký"
+      },
+      "KYC": {
+        "title": "KYC",
+        "description": "Hoàn thành KYC ở đây (form mẫu).",
+        "button": "Hoàn thành KYC"
+      }
+    },
+    "form": {
+      "email": "Email",
+      "password": "Mật khẩu",
+      "confirmPassword": "Xác nhận mật khẩu",
+      "firstName": "Tên",
+      "lastName": "Họ",
+      "emailPlaceholder": "Nhập email của bạn",
+      "passwordPlaceholder": "Nhập mật khẩu của bạn"
+    },
+    "links": {
+      "noAccount": "Chưa có tài khoản?",
+      "signUp": "Đăng ký",
+      "haveAccount": "Đã có tài khoản?",
+      "signIn": "Đăng nhập",
+      "forgotPassword": "Quên mật khẩu?",
+      "resetPassword": "Đặt lại tại đây"
+    },
+    "messages": {
+      "loginSuccess": "Đăng nhập thành công",
+      "loginError": "Email hoặc mật khẩu không hợp lệ",
+      "registerSuccess": "Tạo tài khoản thành công",
+      "registerError": "Không thể tạo tài khoản",
+      "Onboarding": {
+        "error": "Hoàn tất thiết lập thất bại"
+      }
+    },
+    "common": {
+      "user": "Người dùng",
+      "admin": "Quản trị viên",
+      "guest": "Khách"
+    }
+  },
+  "dashboard": {
+    "page": {
+      "title": "Bảng điều khiển",
+      "description": "Tổng quan về tài khoản và hoạt động của bạn"
+    },
+    "stats": {
+      "totalOrders": "Tổng đơn hàng",
+      "totalRevenue": "Tổng doanh thu",
+      "activeCustomers": "Khách hàng tích cực",
+      "pendingTasks": "Công việc đang chờ"
+    },
+    "sections": {
+      "recentOrders": "Đơn hàng gần đây",
+      "quickActions": "Hành động nhanh",
+      "analytics": "Phân tích",
+      "notifications": "Thông báo",
+      "contact": "Thông tin liên hệ",
+      "about": "Về chúng tôi",
+      "services": "Dịch vụ",
+      "settings": "Cài đặt"
+    },
+    "actions": {
+      "viewAll": "Xem tất cả",
+      "createNew": "Tạo mới",
+      "refresh": "Làm mới",
+      "settings": "Cài đặt",
+      "export": "Xuất dữ liệu",
+      "import": "Nhập dữ liệu",
+      "save": "Lưu"
+    },
+    "form": {
+      "transferAmount": "Số tiền chuyển",
+      "enterAmount": "Nhập số tiền chuyển",
+      "amountExceeded": "Số tiền vượt quá giới hạn hàng ngày",
+      "selectTransferType": "Chọn loại chuyển tiền",
+      "enterSwiftCode": "Nhập mã SWIFT/BIC",
+      "swiftCode": "Mã SWIFT/BIC",
+      "enterNotes": "Nhập ghi chú bổ sung cho giao dịch này",
+      "submit": "Gửi",
+      "reset": "Đặt lại"
+    },
+    "messages": {
+      "welcome": "Chào mừng trở lại!",
+      "noData": "Không có dữ liệu",
+      "loading": "Đang tải bảng điều khiển...",
+      "error": "Không thể tải dữ liệu bảng điều khiển",
+      "success": "Bảng điều khiển cập nhật thành công"
+    }
+  },
+  "shop": {
+    "page": {
+      "title": "Cửa hàng",
+      "description": "Duyệt và mua sản phẩm"
+    },
+    "sections": {
+      "products": "Sản phẩm",
+      "cart": "Giỏ hàng",
+      "checkout": "Thanh toán"
+    },
+    "messages": {
+      "comingSoon": "Sẽ có thêm sản phẩm sớm!",
+      "emptyCart": "Giỏ hàng của bạn trống",
+      "addedToCart": "Đã thêm sản phẩm vào giỏ hàng"
+    }
+  },
+  "discover": {
+    "page": {
+      "title": "Khám phá",
+      "description": "Khám phá nội dung và tính năng mới"
+    },
+    "sections": {
+      "featured": "Nội dung nổi bật",
+      "trending": "Đang thịnh hành",
+      "recommendations": "Đề xuất"
+    },
+    "messages": {
+      "explore": "Bắt đầu khám phá nền tảng của chúng tôi",
+      "noContent": "Không có nội dung",
+      "loading": "Đang tải khám phá..."
+    }
+  },
+  "default": {
+    "page": {
+      "title": "Trang mặc định",
+      "description": "Chào mừng đến với trang mặc định"
+    },
+    "form": {
+      "title": "Biểu mẫu liên hệ",
+      "name": "Tên",
+      "email": "Email",
+      "message": "Tin nhắn",
+      "phone": "Số điện thoại",
+      "password": "Mật khẩu",
+      "search": "Tìm kiếm",
+      "namePlaceholder": "Nhập tên của bạn",
+      "emailPlaceholder": "Nhập email của bạn",
+      "messagePlaceholder": "Nhập tin nhắn của bạn",
+      "phonePlaceholder": "Nhập số điện thoại của bạn",
+      "passwordPlaceholder": "Nhập mật khẩu",
+      "searchPlaceholder": "Tìm kiếm...",
+      "emailDescription": "Chúng tôi sẽ sử dụng email này để gửi cho bạn những cập nhật quan trọng",
+      "phoneDescription": "Vui lòng bao gồm mã quốc gia của bạn",
+      "submit": "Gửi",
+      "reset": "Đặt lại"
+    },
+    "sections": {
+      "contact": "Thông tin liên hệ",
+      "about": "Về chúng tôi",
+      "services": "Dịch vụ của chúng tôi",
+      "testimonials": "Lời chứng thực"
+    },
+    "messages": {
+      "formSubmitted": "Gửi biểu mẫu thành công",
+      "formError": "Lỗi khi gửi biểu mẫu",
+      "required": "Trường này là bắt buộc",
+      "invalidEmail": "Vui lòng nhập địa chỉ email hợp lệ",
+      "emailValid": "Định dạng email hợp lệ"
+    },
+    "display": {
+      "currentValues": "Giá trị hiện tại"
+    },
+    "common": {
+      "loading": "Đang tải...",
+      "error": "Đã xảy ra lỗi",
+      "success": "Thành công",
+      "cancel": "Hủy",
+      "save": "Lưu",
+      "required": "Bắt buộc"
+    }
+  },
+  "home": {
+    "page": {
+      "title": "Đơn hàng của tôi",
+      "description": "Quản lý và theo dõi đơn hàng của bạn"
+    },
+    "actions": {
+      "update": "Cập nhật",
+      "cancel": "Hủy",
+      "refresh": "Làm mới",
+      "export": "Xuất"
+    },
+    "table": {
+      "headers": {
+        "orderId": "Mã đơn hàng",
+        "customer": "Khách hàng",
+        "date": "Ngày",
+        "amount": "Số tiền",
+        "status": "Trạng thái"
+      },
+      "status": {
+        "pending": "Chờ xử lý",
+        "processing": "Đang xử lý",
+        "completed": "Hoàn thành",
+        "cancelled": "Đã hủy"
+      },
+      "empty": "Không tìm thấy đơn hàng",
+      "loading": "Đang tải đơn hàng..."
+    },
+    "navigation": {
+      "home": "Trang chủ",
+      "dashboard": "Bảng điều khiển",
+      "orders": "Đơn hàng",
+      "products": "Sản phẩm",
+      "customers": "Khách hàng",
+      "analytics": "Phân tích"
+    },
+    "common": {
+      "welcome": "Chào mừng đến với bảng điều khiển của bạn",
+      "loading": "Đang tải...",
+      "error": "Đã xảy ra lỗi",
+      "success": "Thao tác hoàn thành thành công"
+    },
+    "sections": {
+      "orders": "Tổng quan đơn hàng",
+      "ordersDescription": "Xem và quản lý đơn hàng từ các vai trò người dùng khác nhau trong hệ thống"
+    }
+  },
+  "orders": {
+    "page": {
+      "title": "Quản lý đơn hàng",
+      "description": "Quản lý và theo dõi tất cả đơn hàng từ các vai trò người dùng khác nhau."
+    },
+    "sections": {
+      "overview": "Tổng quan đơn hàng",
+      "filters": "Bộ lọc",
+      "actions": "Hành động"
+    },
+    "actions": {
+      "create": "Tạo đơn hàng",
+      "edit": "Chỉnh sửa đơn hàng",
+      "delete": "Xóa đơn hàng",
+      "export": "Xuất đơn hàng"
+    },
+    "status": {
+      "pending": "Chờ xử lý",
+      "processing": "Đang xử lý",
+      "completed": "Hoàn thành",
+      "cancelled": "Đã hủy"
+    },
+    "messages": {
+      "loading": "Đang tải đơn hàng...",
+      "empty": "Không tìm thấy đơn hàng",
+      "error": "Không thể tải đơn hàng"
+    }
+  },
+  "login": {
+    "loginTitle": "Đăng nhập vào tài khoản của bạn",
+    "loginButton": "Đăng nhập",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "noAccount": "Chưa có tài khoản?",
+    "signUp": "Đăng ký",
+    "forgotPassword": "Quên mật khẩu?",
+    "resetPassword": "Đặt lại tại đây",
+    "signInDescription": "Đăng nhập vào tài khoản của bạn",
+    "emailPlaceholder": "Nhập email của bạn",
+    "passwordPlaceholder": "Mật khẩu",
+    "emailDescription": "Chúng tôi sẽ không bao giờ chia sẻ email của bạn với bất kỳ ai khác",
+    "passwordDescription": "Mật khẩu của bạn phải đáp ứng yêu cầu bảo mật",
+    "rememberMe": "Ghi nhớ tôi",
+    "formDataTitle": "Dữ liệu biểu mẫu",
+    "notEntered": "Chưa nhập",
+    "common": {
+      "required": "Bắt buộc"
+    },
+    "navigation": {
+      "title": "Ứng dụng Test i18n",
+      "home": "Trang chủ"
+    }
+  }
+}
